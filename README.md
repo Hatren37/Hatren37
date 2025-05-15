@@ -1,4 +1,5 @@
 👋 Hello, I'm Galimu Fred
+
 🎓 B.Sc. in Networking and Cybersecurity | ISBAT University, Uganda
 
 I'm a passionate tech enthusiast with a keen interest in networking, cybersecurity, and software development. Currently pursuing my Bachelor's degree, I am dedicated to expanding my knowledge and contributing to the tech community.
